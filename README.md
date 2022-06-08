@@ -6,6 +6,3 @@ Comecei na carreira como Designer gráfico mas acabei desenvolvendo mais em Desi
 
 - Atualmente moro em Teixeira de freitas na Bahia 🏡
 - Estou aqui pra desenvolver novas habilidades e skills para ser melhor que hoje... que venha mais
-
-Skills
-Javascript TypeScript React HTML5 Sass MySQL
